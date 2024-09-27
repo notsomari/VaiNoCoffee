@@ -1,0 +1,49 @@
+/*
+seletor {
+    propriedade: valor;
+}
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(233, 230, 203);
+}
+
+header {
+  border: solid 3px beige;
+  background-color: rgb(77, 223, 215);
+  height: 60px;
+  padding-left: 100px;
+  padding-top: 5px;
+}
+
+section {
+  border: solid azure 10px;
+  margin: 50px 30px 0 100px;
+  padding-left: 50px;
+  padding-right: 100px;
+}
+section h2 {
+  margin: 30px 30px 20px;
+}
+section figure {
+  margin: 20px 20px;
+}
+section figure img {
+  margin-top: 30px;
+  padding-top: 25px;
+  width: 200px;
+}
+section figcaption {
+  padding-left: 40px;
+}
+section button {
+  margin: 20px 10px;
+  padding: 10px;
+  background-color: rgb(77, 223, 215);
+  color: beige;
+}/*# sourceMappingURL=style.css.map */
